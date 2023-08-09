@@ -1,3 +1,6 @@
+•	Focus on analyzing the I-94 dataset to identify heavy traffic indicators. By leveraging the power of Pandas, Matplotlib, and Seaborn libraries in Python
+•	Explores and visualizes various factors such as weather conditions, time of day, and holidays to discover patterns that contribute to heavy traffic
+
 Dự án "Finding Heavy Traffic Indicators on I-94" trên Dataquest là một dự án thực hành trong khóa học Data Analysis trên nền tảng Dataquest. Dự án này nhằm mục tiêu phân tích dữ liệu giao thông trên tuyến đường I-94 để tìm hiểu các yếu tố ảnh hưởng đến lưu lượng giao thông nặng trên đường này.
 
 Trong dự án này, bạn sẽ được cung cấp một tập dữ liệu về lưu lượng giao thông trên tuyến đường I-94 trong suốt một thời gian nhất định. Bạn sẽ thực hiện các bước sau:
